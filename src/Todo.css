@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  margin: 0 auto; 
+}
+
+
+.todo_list{
+    text-align: center;
+}
+
+.completed{
+    opacity: 0.2;
+    text-decoration: line-through;
+}
+
